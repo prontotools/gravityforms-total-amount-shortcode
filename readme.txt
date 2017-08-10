@@ -9,3 +9,28 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 Display total amount for field in Gravity Forms.
 
+
+**Parameters**
+* `form_id`
+* `field_id`
+* `start_date`
+* `end_date`
+
+**Examples:**
+* `[gravityform-total-amount]`
+* `[gravityform-total-amount form_id="14"]`
+* `[gravityform-total-amount form_id="14" field_id="18"]`
+* `[gravityform-total-amount form_id="14" field_id="18" stat_date="2017-07-18"]`
+* `[gravityform-total-amount form_id="14" field_id="18" stat_date="2017-07-18" end_date="2017-07-20"]`
+
+
+== Installation ==
+1. Upload the plugin files to the `/wp-content/plugins/plugin-name` directory, or install the plugin through the Wordpress plugin screen directly.
+2. Activate the plugin through the 'Plugins' screen in WordPress
+3. Include the shortcode anywhere on your website: `[gravityform-total-amount form_id="14" field_id="18" stat_date="2017-07-18" end_date="2017-07-20"]` 
+
+
+== Changelog ==
+
+= 1.0.0 =
+* First release!
