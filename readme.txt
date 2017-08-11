@@ -11,7 +11,7 @@ A simple shortcode that displays the “Total” filed value from any Gravity Fo
 
 == Description ==
 
-This plugin allows you to insert shortcode anywhere on your site that generates an a "Total" field value from any Gravity Form.
+Introduce a shortcode that generates a total field value.
 
 **Parameters**
 * `form_id`
