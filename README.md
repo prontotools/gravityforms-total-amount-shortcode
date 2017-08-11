@@ -1,6 +1,7 @@
 # gravityforms-total-amount-shortcode
 Gravity Forms Total Amount Shortcode
 ====================================
+A simple shortcode that displays the “Total” filed value from any Gravity Form.
 
 Usage
 -----

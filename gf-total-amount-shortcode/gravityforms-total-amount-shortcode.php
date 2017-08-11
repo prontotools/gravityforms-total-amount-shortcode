@@ -2,7 +2,7 @@
 /*
  * Plugin Name: Gravity Forms Total Amount Shortcode
  * Plugin URI: http://www.prontotools.io
- * Description: Display total amount for field in Gravity Forms.
+ * Description: A simple shortcode that displays the “Total” filed value from any Gravity Form.
  * Version: 1.0.0
  * Author: Pronto Tools
  * Author URI: http://www.prontotools.io
