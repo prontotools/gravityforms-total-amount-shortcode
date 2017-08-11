@@ -31,10 +31,10 @@ svn ci -m "Release $version"
 if [ -e tags/$version ]
 then
   cp -r trunk/* tags/$version
-  svn add tags/$version --force
-else
-  svn cp trunk tags/$version
-fi
-svn ci -m "Tagging version $version"
-rm -rf $TMP_DIR
+    svn add tags/$version --force
+    else
+      svn cp trunk tags/$version
+      fi
+      svn ci -m "Tagging version $version"
+      rm -rf $TMP_DIR
 
