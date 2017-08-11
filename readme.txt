@@ -9,6 +9,9 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 A simple shortcode that displays the “Total” filed value from any Gravity Form.
 
+== Description ==
+
+This plugin allows you to insert shortcode anywhere on your site that generates an a "Total" field value from any Gravity Form.
 
 **Parameters**
 * `form_id`
