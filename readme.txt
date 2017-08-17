@@ -7,11 +7,10 @@ Stable tag: 1.0.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-A simple shortcode that displays the “Total” filed value from any Gravity Form.
 
 == Description ==
+A simple shortcode that displays the “Total” filed value from any Gravity Form.
 
-Introduce a shortcode that generates a total field value.
 
 **Parameters**
 * `form_id`
@@ -37,3 +36,4 @@ Introduce a shortcode that generates a total field value.
 
 = 1.0.0 =
 * First release!
+* Introduce a shortcode that generates a total field value.

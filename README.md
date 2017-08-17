@@ -24,3 +24,4 @@ Changelog
 
 = 1.0.0 =
 - First release!
+- A simple shortcode that displays the “Total” filed value from any Gravity Form.
